@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ayoub Haj Abdallah
 
-<!--
-**ayoubhajabdallah/ayoubhajabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at TU Dortmund University.
 
-Here are some ideas to get you started:
+I am interested in cybersecurity, artificial intelligence, cloud technologies, and software development. I am currently building practical projects and strengthening my skills in Linux, networking, Git, and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** C, C++, Python, Java, JavaScript, SQL
+- **Currently learning:** Linux, Git/GitHub, cloud technologies, cybersecurity tools, and machine learning
+- **Areas of interest:** Cybersecurity, AI/ML, cloud, backend development, networking, and DevOps
+
+## Education
+
+- B.Sc. Computer Science — TU Dortmund University
+- Harvard CS50x: Introduction to Computer Science
+
+## Current Goals
+
+- Build practical and well-documented technical projects
+- Gain professional experience through a Werkstudent position
+- Explore cybersecurity and artificial intelligence through hands-on work
+
+## Contact
+
+- Email: ayhajabdallah@gmail.com

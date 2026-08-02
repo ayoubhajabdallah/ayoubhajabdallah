@@ -6,7 +6,7 @@ I am interested in cybersecurity, artificial intelligence, cloud technologies, a
 
 ## Technical Skills
 
-- **Languages:** C, C++, Python, Java, JavaScript, SQL
+- **Languages:** C, C++, Python, Java, SQL
 - **Currently learning:** Linux, Git/GitHub, cloud technologies, cybersecurity tools, and machine learning
 - **Areas of interest:** Cybersecurity, AI/ML, cloud, backend development, networking, and DevOps
 

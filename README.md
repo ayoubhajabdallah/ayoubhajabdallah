@@ -2,25 +2,42 @@
 
 Computer Science student at TU Dortmund University.
 
-I am interested in cybersecurity, artificial intelligence, cloud technologies, and software development. I am currently building practical projects and strengthening my skills in Linux, networking, Git, and modern development tools.
+I build software projects focused on backend development,
+automation, and IT security.
 
 ## Technical Skills
 
-- **Languages:** C, C++, Python, Java, SQL
-- **Currently learning:** Linux, Git/GitHub, cloud technologies, cybersecurity tools, and machine learning
-- **Areas of interest:** Cybersecurity, AI/ML, cloud, backend development, networking, and DevOps
+**Languages**
+Python · Java · C · Kotlin · C++
 
-## Education
+**Backend & Tools**
+FastAPI · REST APIs · Docker · Git · GitHub Actions
 
-- B.Sc. Computer Science — TU Dortmund University
-- Harvard CS50x: Introduction to Computer Science
+**Database**
+SQL
 
-## Current Goals
+## Featured Projects
 
-- Build practical and well-documented technical projects
-- Gain professional experience through a Werkstudent position
-- Explore cybersecurity and artificial intelligence through hands-on work
+### Security Log Analyzer
+Security-focused application for analyzing authentication logs,
+detecting suspicious activities, and identifying anomalies.
+
+Tech:
+Python · FastAPI · scikit-learn · Docker
+
+### IT Service Desk
+REST-based service desk application for managing IT support workflows.
+
+Tech:
+Java · Spring Boot · PostgreSQL
+
+### Flow Manager
+Workflow management application for organizing processes and tasks.
+
+Tech:
+TypeScript · React · Backend APIs
 
 ## Contact
 
-- Email: ayhajabdallah@gmail.com
+LinkedIn: your link  
+Email: your email

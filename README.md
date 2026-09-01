@@ -39,5 +39,5 @@ TypeScript · React · Backend APIs
 
 ## Contact
 
-LinkedIn: your link  
-Email: your email
+LinkedIn: www.linkedin.com/in/ayoubhajabdallah  
+Email: ayhajabdallah@gmail.com

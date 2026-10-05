@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ayoub. 👋</h1>
+  <h1>Hi, I'm Ayoub Haj Abdallah. 👋</h1>
   <h2>Architecting backend systems that scale, secure, and deploy themselves.</h2>
   <p>Computer Science (B.Sc.) at TU Dortmund • Focused on Server-Side Engineering, CI/CD & Industrial Monitoring</p>
 </div>

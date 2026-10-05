@@ -1,6 +1,6 @@
 ### Hi, I'm Ayoub. 
 
-Computer Science student at TU Dortmund University[cite: 5]. I build backend systems, automation pipelines, and infrastructure that actually works in production.
+Computer Science student at TU Dortmund University. I build backend systems, automation pipelines, and infrastructure that actually works in production.
 
 ---
 

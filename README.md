@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Ayoub Haj Abdallah. /h1>
+  <h1> Ayoub Haj Abdallah.</h1>
   <h2>Architecting backend systems that scale, secure, and deploy themselves.</h2>
   <p>Computer Science (B.Sc.) at TU Dortmund • Focused on Server-Side Engineering, CI/CD & Industrial Monitoring</p>
 </div>

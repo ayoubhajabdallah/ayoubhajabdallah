@@ -18,22 +18,22 @@ Anyone can write code that works on `localhost`. I focus on building distributed
 
 #### 🏭 [Forge Watch](https://github.com/ayoubhajabdallah/forgewatch) | *Industrial monitoring & synthetic data generation*
 An industrial monitoring platform for tracking machine data and managing incidents.
-* **The Clever Part:** Instead of relying on static test data, I built a custom **Go-based sensor simulator** that generates live, synthetic telemetry data and pushes it to the Spring Boot REST API for real-time threshold evaluation.
+* **The Idea:** Instead of relying on static test data, I built a custom **Go-based sensor simulator** that generates live, synthetic telemetry data and pushes it to the Spring Boot REST API for real-time threshold evaluation.
 * **The Architecture:** Java 21, Spring Boot, Go, Angular, PostgreSQL, GitHub Actions.
 
 #### ☁️ [AWS EC2 CI/CD Deployment](https://github.com/ayoubhajabdallah/aws-ec2-nginx-project) | *Bare-metal cloud infrastructure*
 A fully automated continuous deployment pipeline running on Amazon EC2.
-* **The Clever Part:** I didn't just use a simple cloud platform (like Vercel/Heroku). I provisioned an AWS EC2 instance, secured an Nginx web server, and configured a **Self-Hosted GitHub Runner as a Linux systemd service** to execute raw Bash deployment scripts automatically.
+* **The Idea:** I didn't just use a simple cloud platform (like Vercel/Heroku). I provisioned an AWS EC2 instance, secured an Nginx web server, and configured a **Self-Hosted GitHub Runner as a Linux systemd service** to execute raw Bash deployment scripts automatically.
 * **The Architecture:** AWS EC2, Nginx, Linux/Bash, GitHub Actions.
 
 #### 🛡️ [Security Log Analyzer](https://github.com/ayoubhajabdallah/security-log-analyzer) | *Detecting anomalies before they become breaches*
 A real-time authentication log analyzer to flag suspicious network activity.
-* **The Clever Part:** Integrated an **Isolation Forest ML algorithm** (scikit-learn) for dynamic anomaly detection instead of relying purely on static regex rules.
+* **The Idea:** Integrated an **Isolation Forest ML algorithm** (scikit-learn) for dynamic anomaly detection instead of relying purely on static regex rules.
 * **The Architecture:** FastAPI backend, fully containerized with Docker Compose, PostgreSQL.
 
 #### 🏢 [IT Service Desk API](https://github.com/ayoubhajabdallah/it-servicedesk) & [FlowOps](https://github.com/ayoubhajabdallah/Flow-Manager) | *Enterprise workflow management*
 Two robust backends handling IT support ticketing, automated task classification, and webhook integrations.
-* **The Clever Part:** Engineered strict JWT-based authentication, role-based authorization (Spring Security), and an event-history lifecycle. Both architectures mirror real enterprise backend patterns.
+* **The Idea:** Engineered strict JWT-based authentication, role-based authorization (Spring Security), and an event-history lifecycle. Both architectures mirror real enterprise backend patterns.
 * **The Architecture:** Java (Spring Boot), Python (FastAPI), PostgreSQL, TypeScript/React.
 
 ---
